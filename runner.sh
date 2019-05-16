@@ -16,4 +16,5 @@ echo "Now it's starting..."
 
 ./setuplinux.sh
 
+cd /srv/salt/moduuli
 
